@@ -1,16 +1,16 @@
 # vanities/skills
 
-Agent skills I use day-to-day. Straight from my `.claude` directory.
+Agent skills I use day-to-day.
 
 Built for any agent runtime that follows the [agent skills](https://agentskills.io) convention (frontmatter + `SKILL.md`).
 
 ## Install
 
-Symlink whichever ones you want into your `~/.claude/skills/` directory:
+Clone and symlink the ones you want into your agent's skills directory:
 
 ```bash
 git clone git@github.com:vanities/skills.git ~/vanities-skills
-ln -s ~/vanities-skills/skills/roast-me ~/.claude/skills/roast-me
+ln -s ~/vanities-skills/skills/roast-me <your-agent-skills-dir>/roast-me
 ```
 
 Or use [skills.sh](https://skills.sh) when published there.

@@ -2,7 +2,7 @@
 
 Agent skills I use day-to-day. Straight from my `.claude` directory.
 
-Built for [Claude Code](https://claude.com/claude-code) and any other agent runtime that follows the [agent skills](https://agentskills.io) convention (frontmatter + `SKILL.md`).
+Built for any agent runtime that follows the [agent skills](https://agentskills.io) convention (frontmatter + `SKILL.md`).
 
 ## Install
 

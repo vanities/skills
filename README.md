@@ -25,4 +25,4 @@ Triggers: "roast me", "be brutal", "what's actually wrong with this", asking for
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+GNU General Public License v3.0 — see [LICENSE](LICENSE).
